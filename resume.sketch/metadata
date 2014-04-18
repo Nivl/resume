@@ -52,6 +52,7 @@
 		<string>Helvetica</string>
 		<string>Helvetica-Bold</string>
 		<string>Helvetica</string>
+		<string>Helvetica</string>
 		<string>Helvetica-Bold</string>
 		<string>Helvetica</string>
 		<string>Helvetica-Bold</string>
@@ -100,7 +101,7 @@
 		<string>Helvetica</string>
 	</array>
 	<key>length</key>
-	<integer>617542</integer>
+	<integer>618846</integer>
 	<key>version</key>
 	<integer>36</integer>
 </dict>
