@@ -1,4 +1,3 @@
-resume
-======
+# resume
 
-Source of my resume, designed using Adobe XD
+latest version of my resume, designed using Figma
